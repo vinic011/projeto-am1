@@ -2,10 +2,18 @@
 
 Disciplina de CMC-15
 
+WARNING: Subir notebook sem "outputs"
+
+Caso contrário o git fica lento e pode até não funcionar
+
 Authors:
+
 Vinicius Pereira
+
 Giuseppe Vicente
+
 Nikolas Antes
+
 Gustavo Beato
 
 ## Notebook topics
