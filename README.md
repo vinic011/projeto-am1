@@ -17,11 +17,11 @@ Nikolas Antes
 Gustavo Beato
 
 ## Notebook topics
-1. Exploratory Analysis
-2. Cross Validation
-3. Tests
-4. Discussions
-5. Conclusion
+1. Exploratory Analysis Done
+2. Cross Validation TODO
+3. Tests  TODO
+4. Discussions TODO
+5. Conclusion TODO
 
 ## How to run
 ```bash
